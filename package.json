@@ -105,6 +105,10 @@
 				"language": "twee3-harlowe-3",
 				"scopeName": "source.harlowe-3.twee3",
 				"path": "./defs/harlowe-3/grammar.json",
+				"unbalancedBracketScopes": [
+					"meta.harlowe.unbalanced.twee3",
+					"entity.name.tag.hook"
+				],
 				"embeddedLanguages": {
 					"source.json.twee3": "json",
 					"source.js.twee3": "javascript",
